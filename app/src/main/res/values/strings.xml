@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InstaxTrigger</string>
+    <string name="action_forget">Forget device</string>
+    <string name="action_quit">Quit</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="next">Connect</string>
+    <string name="previous">Previous</string>
+
+    <string name="trigger">Trigger</string>
+    <string name="trigger3s">Trigger in 3s</string>
+    <string name="trigger5s">Trigger in 5s</string>
+    <string name="battery_str">0%</string>
+
+</resources>
